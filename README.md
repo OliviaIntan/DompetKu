@@ -1,38 +1,53 @@
-# DompetKu 
-Aplikasi Manajemen Keuangan Pribadi - Tugas Besar PBO Telkom University Purwokerto
+# 💰 DompetKu
 
-DompetKu adalah aplikasi berbasis Java yang membantu pengguna mencatat pengeluaran dan pemasukan, mengelompokkan transaksi berdasarkan kategori, serta membuat budgeting bulanan.
+Aplikasi manajemen keuangan sederhana berbasis Java dengan arsitektur **MVC (Model-View-Controller)**.  
+DompetKu membantu pengguna mencatat pemasukan dan pengeluaran, serta menghitung total saldo saat ini.
 
-## 🎯 Fitur Utama
-- Catat pemasukan dan pengeluaran
-- Klasifikasi transaksi berdasarkan kategori
-- Budgeting bulanan
-- Visualisasi grafik pengeluaran (fitur dalam pengembangan)
+## 📌 Deskripsi Proyek
 
-## 🔧 Konsep OOP dan MVC
-- **Inheritance**: `Transaksi` → `Pemasukan`, `Pengeluaran`
-- **Polymorphism**: `getDeskripsi()` berbeda di setiap subclass
-- **Encapsulation**: Informasi akun (saldo) tidak bisa diakses langsung
-- **Exception Handling**: Validasi saldo negatif dan format tanggal
+DompetKu adalah aplikasi personal finance tracker yang mencatat dan mengelompokkan transaksi ke dalam kategori tertentu.
+Aplikasi ini dibuat menggunakan bahasa pemrograman Java dengan pendekatan **MVC (Model-View-Controller)** sebagai bagian dari tugas besar mata kuliah **Pemrograman Berorientasi Objek (PBO)** di Telkom University Purwokerto.
 
-## 🏛️ Arsitektur MVC
-- **Model**: `Transaksi`, `Kategori`, `Akun`
-- **View**: `MainView` (Form UI)
-- **Controller**: `AkunController`, `TransaksiController`
+- Bahasa Pemrograman: Java
+- IDE: NetBeans
+- Arsitektur: MVC (Model - View - Controller)
 
-## 📸 Screenshot Tampilan Aplikasi
+## ✅ Fitur
 
-### Form Input Transaksi
-![Form Input](screenshots/form_transaksi.png)
+- Menambahkan transaksi pemasukan
+- Menambahkan transaksi pengeluaran
+- Mengelompokkan transaksi berdasarkan kategori
+- Menampilkan daftar transaksi
+- Menghitung total pemasukan, pengeluaran, dan saldo akhir
 
-### Grafik Pengeluaran
-![Grafik](screenshots/grafik_pengeluaran.png)
+---
 
-## 🗂️ Class Diagram
-![Class Diagram](class_diagram.png)
+## 🔧 Struktur Kelas
 
-## 👥 Tim Pengembang
+### ✅ Class Diagram
+
+Berikut adalah class diagram yang menggambarkan seluruh entitas dan relasi dalam aplikasi:
+
+![Class Diagram](./pbo.drawio.png)
+
+---
+
+## 🖥️ Tampilan Aplikasi
+
+Tampilan program ketika dijalankan di console:
+
+![Tampilan Console](./d347270c-9a2c-409f-a9c1-85b9a0ab3453.png)
+
+---
+
+## 👥 Kolaborator
+Project ini dikembangkan oleh kelompok kami:
 - Olivia Intan Puspita - 2311110006
 - Afifah Faiqatzzahra - 2311110043
 - Yasmine Alifta - 2311110044
+
+---
+
+
+
 
