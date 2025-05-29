@@ -23,7 +23,7 @@ Aplikasi ini dibuat menggunakan bahasa pemrograman Java dengan pendekatan **MVC 
 
 Berikut adalah class diagram yang menggambarkan seluruh entitas dan relasi dalam aplikasi:
 
-![Class Diagram]([./pbo.drawio.png](https://github.com/OliviaIntan/DompetKu/blob/main/pbo.drawio.png))
+![Class Diagram](https://github.com/OliviaIntan/DompetKu/blob/0539063e1923183a70687231965ee236cb413d7b/pbo.drawio.png)
 
 ---
 
