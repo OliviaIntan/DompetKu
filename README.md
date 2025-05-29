@@ -1,11 +1,6 @@
 # 💰 DompetKu
 
-Aplikasi manajemen keuangan sederhana berbasis Java dengan arsitektur **MVC (Model-View-Controller)**.  
-DompetKu membantu pengguna mencatat pemasukan dan pengeluaran, serta menghitung total saldo saat ini.
-
-## 📌 Deskripsi Proyek
-
-DompetKu adalah aplikasi personal finance tracker yang mencatat dan mengelompokkan transaksi ke dalam kategori tertentu.
+DompetKu adalah aplikasi personal finance tracker berbasis Java dengan arsitektur **MVC (Model-View-Controller)**. DompetKu membantu pengguna manajemen keuangan seperti mencatat pemasukan dan pengeluaran, serta menghitung total saldo saat ini.
 Aplikasi ini dibuat menggunakan bahasa pemrograman Java dengan pendekatan **MVC (Model-View-Controller)** sebagai bagian dari tugas besar mata kuliah **Pemrograman Berorientasi Objek (PBO)** di Telkom University Purwokerto.
 
 - Bahasa Pemrograman: Java
