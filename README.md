@@ -3,10 +3,6 @@
 DompetKu adalah aplikasi personal finance tracker berbasis Java dengan arsitektur **MVC (Model-View-Controller)**. DompetKu membantu pengguna manajemen keuangan seperti mencatat pemasukan dan pengeluaran, serta menghitung total saldo saat ini.
 Aplikasi ini dibuat menggunakan bahasa pemrograman Java dengan pendekatan **MVC (Model-View-Controller)** sebagai bagian dari tugas besar mata kuliah **Pemrograman Berorientasi Objek (PBO)** di Telkom University Purwokerto.
 
-- Bahasa Pemrograman: Java
-- IDE: NetBeans
-- Arsitektur: MVC (Model - View - Controller)
-
 ## ✅ Fitur
 
 - Menambahkan transaksi pemasukan
@@ -31,7 +27,7 @@ Berikut adalah class diagram yang menggambarkan seluruh entitas dan relasi dalam
 
 Tampilan program ketika dijalankan di console:
 
-![Tampilan Console](./d347270c-9a2c-409f-a9c1-85b9a0ab3453.png)
+![Tampilan Console](https://github.com/OliviaIntan/DompetKu/blob/51165fd7981fdfc7c278cbf165ea474b239ace9d/Screenshot%202025-05-29%20173749.png)
 
 ---
 
