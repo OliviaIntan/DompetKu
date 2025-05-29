@@ -13,9 +13,7 @@ Aplikasi ini dibuat menggunakan bahasa pemrograman Java dengan pendekatan **MVC 
 
 ---
 
-## Struktur Kelas
-
-### Class Diagram
+## Class Diagram
 
 Berikut adalah class diagram yang menggambarkan seluruh entitas dan relasi dalam aplikasi:
 
@@ -34,7 +32,7 @@ Tampilan program ketika dijalankan di console:
 ## Kolaborator
 Project ini dikembangkan oleh kelompok kami:
 - Olivia Intan Puspita - 2311110006
-- Afifah Faiqatzzahra - 2311110043
+- Afifah Faiqatuzzahra - 2311110043
 - Yasmine Alifta - 2311110044
 
 ---
